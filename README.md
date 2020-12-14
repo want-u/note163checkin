@@ -1,5 +1,4 @@
 # note163checkin
-代码复制的别人的，我只是稍作修改，不能用了我也不会修
 ## 目前暂时能用
 python源码copy于(https://github.com/lepecoder/checkin)
 
@@ -18,7 +17,7 @@ python源码copy于(https://github.com/lepecoder/checkin)
 
 ## 三、启用Action
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
-2 修改任意文件后提交一次  
+2 修改任意文件后提交一次  [123]
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
 
 ## 四、查看运行结果
@@ -28,3 +27,4 @@ Actions > note163Checkin > build
 
 此后，将会在每天10:00签到一次  
 若有需求，可以在[.github/workflows/main.yml]中自行修改
+
